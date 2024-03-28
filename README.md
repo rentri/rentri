@@ -1,1 +1,1 @@
-rentri@archbtw.local
+rentri@archbtw:$
