@@ -15,7 +15,7 @@ Vash the Stampede (Trigun)
                     \_\|     (( \||/
                     .  |      / ,|| \                    contact information
                  __;__ `. `--' ( LJ )\                   -------------------
-                [""""""""`._/  |)  /".)                  Website: 
+                [""""""""`._/  |)  /".)                  Website: https://rentri.github.io/
                 )``    """'-"")(   "./                   Email:
           _,-,-"'-.__  __,--;""-,-,_ (                   X:
      _.-"( (         ""       / (  "._  
