@@ -9,14 +9,14 @@ Vash the Stampede (Trigun)
                \,,.\\\,\ ,\ |\\/!||                      --------------
                \\V\ ,\ V \\| |//!||                      OS: GNU/Linux  
                \\VVVV\\\V/ |/  //||                      Uptime: Eternity
-                  VVVV\\((-\\./ /||                      Packages: c, c++, python
+                  VVVV\\((-\\./ /||                      Packages: c, java
                   \VVV_\\==- ''/|FF|                     Shell: /bin/bash
-                   \V( \   .,  ,|JL|                     Editors: neovim, vscode
+                   \V( \   .,  ,|JL|                     Editors: emacs, vscode
                     \_\|     (( \||/
                     .  |      / ,|| \                    contact information
                  __;__ `. `--' ( LJ )\                   -------------------
                 [""""""""`._/  |)  /".)                  Website: https://rentri.github.io/
-                )``    """'-"")(   "./                   Email:
+                )``    """'-"")(   "./                   Email: 
           _,-,-"'-.__  __,--;""-,-,_ (                   X:
      _.-"( (         ""       / (  "._  
     / |  |o(                 /o/    ,""                  compiling projects
